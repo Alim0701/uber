@@ -1,0 +1,32 @@
+{
+  "name": "uber",
+  "version": "1.0.0",
+  "description": "uber",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alim0701/uber.git"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "Alim Tanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alim0701/uber/issues"
+  },
+  "homepage": "https://github.com/Alim0701/uber#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.1"
+  }
+}
